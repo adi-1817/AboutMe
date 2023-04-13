@@ -4,7 +4,7 @@ I'm **Adithya Sharma**, From Coding Algorithms & Building Intelligent Systems to
 
 
 **Here are some ideas to get you started**:
-- 🔭 I’m currently contributing my part as an SDE to build India's Healthcare Exchange.
+- 🔭 I’m currently working as an SDE to build India's Largest Healthcare Exchange - IHX.
 - 🌱 I’m currently learning **Web Automation**, **FastAPI**, **DevOps**, **AlgoTrding**
 - 👯 I’m looking to collaborate on **API**, **Data Science**, **Automation** Projects. 
 - 💬 Ask me about: **Trading**, **Deep Learning**, **Finance**.
