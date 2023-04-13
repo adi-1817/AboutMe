@@ -8,11 +8,13 @@ I'm **Adithya Sharma**, From Coding Algorithms & Building Intelligent Systems to
 - 🌱 I’m currently learning **Web Automation**, **FastAPI**, **DevOps**, **AlgoTrding**
 - 👯 I’m looking to collaborate on **API**, **Data Science**, **Automation** Projects. 
 - 💬 Ask me about: **Trading**, **Deep Learning**, **Finance**.
-- ⚡ Fun fact: I'm an Avid Trekker, Explorer and I'm obsessed with the Adrenaline Rush<br> and sense of freedom that only **SNOW** Mountains can provide.
+- ⚡ Fun fact: I'm an Avid Trekker, Explorer and I'm obsessed with the Adrenaline Rush <br> and sense of freedom that only **SNOW** Mountains can provide.
 
 📫 Ways to Reach me:
 - [E-mail](indragantiadithyasharma@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/adithyasharma18/)
+
+
 
 
 
