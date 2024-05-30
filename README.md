@@ -13,7 +13,8 @@ I'm **Adithya Sharma**, From Coding Algorithms & Building Intelligent Systems to
 📫 Ways to Reach me:
 &nbsp;
 
-[![E-Mail](https://img.shields.io/badge/Gmail-your_email_address-red)](mailto:indragantiadithyasharma@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Gmail-indragantiadithyasharma@gmail.com-red)](mailto:indragantiadithyasharma@gmail.com)
+&nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasharma18/)
 
 
