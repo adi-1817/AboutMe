@@ -14,7 +14,7 @@ I'm **Adithya Sharma**, From Coding Algorithms & Building Intelligent Systems to
 &nbsp;
 
 - [Mail](mailto:indragantiadithyasharma@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/adithyasharma18/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasharma18/)
 
 
 
